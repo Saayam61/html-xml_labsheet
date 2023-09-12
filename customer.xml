@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+    <customerID>12345</customerID>
+    <firstName>Anthony</firstName>
+    <lastName>Mackie</lastName>
+    <email>anthony.m12@gmail.com</email>
+    <phone>555-123-4567</phone>
+    <address>
+        <street>123 Main Street</street>
+        <city>New York</city>
+        <state>NY</state>
+        <zipCode>10001</zipCode>
+    </address>
+    <orders>
+        <order>
+            <orderID>001</orderID>
+            <orderDate>2023-08-16</orderDate>
+            <totalAmount>250.00</totalAmount>
+        </order>
+        <order>
+            <orderID>002</orderID>
+            <orderDate>2023-08-18</orderDate>
+            <totalAmount>150.00</totalAmount>
+        </order>
+    </orders>
+</customer>
